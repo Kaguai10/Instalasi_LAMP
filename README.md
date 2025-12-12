@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=33&color=e51938&center=true&vCenter=true&width=600&lines=Installasi+LAMP+Di+Debian">
+  <img src="https://readme-typing-svg.herokuapp.com?size=33&color=e51938&center=true&vCenter=true&width=600&lines=Instalasi+LAMP+Di+Debian">
 </div>
 
 ## Apa Itu LAMP?
