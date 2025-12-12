@@ -14,7 +14,7 @@ LAMP Terdiri dari beberapa komponen Yaitu:
 | MariaDB   | Sistem Manajemen Basis Data yang digunakan untuk menyimpan dan mengambil data.        |
 | PHP       | Bahasa pemrograman yang terutama digunakan untuk scripting sisi server.               |
 
-## langkah Konfigurasi
+## langkah-langkah Instalasi
 
 Repository ini berisi panduan instalasi LAMP (Linux, Apache, MariaDB, dan PHP) pada sistem operasi berbasis Debian. Sebelum masuk ke proses instalasi LAMP, langkah pertama yang perlu dilakukan tentu saja adalah menginstal sistem operasi Linux. Pada panduan ini saya menggunakan Debian sebagai contoh. Kalian juga bisa mengikutinya jika memakai Debian ataupun distro turunannya, seperti Ubuntu, Linux Mint, MX Linux, dan lain-lain. Kalau sistem operasi Linux yang kalian butuhkan sudah terpasang, berarti kalian sudah menyelesaikan tahap pertama Yaitu menginstal Linux. 
 
