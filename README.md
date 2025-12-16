@@ -70,4 +70,15 @@ Jika proses instalasi PHP sudah selesai, kalian bisa memastikan bahwa PHP berjal
 ```bash
 echo '<?php phpinfo(); ?>' > /var/www/html/info.php
 ```
-Setelah itu, buka browser dan kunjungi alamat IP server kalian, lalu tambahkan /info.php. Sebagi contoh: http://192.168.0.2/info.php. Jika halaman PHP Info muncul, berarti PHP berhasil terinstal dan berjalan dengan baik. Dan installasi LAMP kalian telah berhasil dan selesai, Selamat mencoba😊.
+Setelah itu, buka browser dan kunjungi alamat IP server kalian, lalu tambahkan /info.php. Sebagi contoh: http://192.168.0.2/info.php. Jika halaman PHP Info muncul, berarti PHP berhasil terinstal dan berjalan dengan baik. Dan installasi LAMP kalian telah berhasil dan selesai. 
+Kalian juga dapat mencoba tools Otomatis yang saya buat, dengan cara seperti berikut Selamat mencoba😊:
+
+```bash
+git clone https://github.com/Kaguai10/Instalasi_LAMP.git
+
+cd Instalasi_LAMP
+
+chmod +x run.sh
+
+sudo ./run.sh 
+```
